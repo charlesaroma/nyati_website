@@ -18,7 +18,7 @@ const login = () => {
           <div className="text-center">
             <h1 className="text-white text-3xl font-medium leading-tight tracking-tight mb-2">Sign in to your account</h1>
             <span className="text-[#FFFAF6B2] font-normal text-sm leading-tight tracking-tight">
-              Login below or {' '}
+              Sign in below or {' '}
               <Link to="/signup" className="text-[#ED3F62] font-normal text-sm leading-tight tracking-tight">create an account</Link>              
             </span> 
           </div> <br/>
